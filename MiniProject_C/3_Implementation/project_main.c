@@ -1,3 +1,4 @@
+#include<stdio.h>
 FILE*fp,*ft,*fs; 
 COORDcoord={0,0}; 
 //listofglobalvariable 
